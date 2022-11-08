@@ -1,2 +1,2 @@
 # Imperative-Programming
-C language, exercices
+C programming language exercises
